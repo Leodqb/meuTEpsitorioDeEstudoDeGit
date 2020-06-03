@@ -2,3 +2,4 @@ teste
 modificação 1
 para cliar conflito
 segundo conflito
+para cliar conflito modificaçao no teste
